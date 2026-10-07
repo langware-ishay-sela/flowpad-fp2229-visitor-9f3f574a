@@ -1,0 +1,13 @@
+{
+  "type": "agent",
+  "id": "e8737718-a8da-4428-b5d6-dfd7cdb38eac",
+  "name": "pong",
+  "title": "Pong",
+  "description": "Replies with the exact token it is asked for.",
+  "worker_type": "claude",
+  "model": "anthropic/claude-haiku-4.5",
+  "permission_mode": "bypassPermissions",
+  "auto_launch": true,
+  "auto_launch_prompt": "Reply with exactly: PONG-FP2229",
+  "enabled": true
+}
